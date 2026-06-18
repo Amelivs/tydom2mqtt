@@ -1,0 +1,6 @@
+name: Tydom2mqtt2
+version: "1.0.0"
+slug: tydom2mqtt2
+description: Blabla
+startup: once
+boot: manual
